@@ -1,7 +1,6 @@
 #include <iostream>
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
-#include <sys/ioctl.h> // for sound
 #include <vector>
 #include <thread>
 #include <atomic>
